@@ -1,1 +1,1 @@
-用法参见example.js
+example.js
